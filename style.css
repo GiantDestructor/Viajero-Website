@@ -1,0 +1,121 @@
+body
+{
+    background: #bbe4e9 ;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+   
+}
+
+#aboutme
+{   
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #5585b5;
+
+    width: max-content;
+    margin: 30px auto;
+    border-radius: 50px;
+}
+
+#ytvideos
+{   
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+    text-align: center;
+
+    background-color: #5585b5;
+
+    width: max-content;
+    margin:     0 auto;
+    border-radius: 50px;
+}
+
+#header
+{   
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+    text-align: center;
+}
+
+
+
+.navbar
+{
+    
+   
+    display:grid;
+    grid-template-columns: auto auto auto;
+    
+    grid-column-gap: 50px;
+    padding: 10px;
+    background:  #53a8b6; ; 
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    width: max-content;
+    margin: 0 auto;
+
+    border-radius: 50px;
+
+    
+}
+
+.projects
+{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    text-align: center;
+
+    background-color: #5585b5;
+
+    width: max-content;
+    margin:     0 auto;
+    border-radius: 50px; 
+    margin: 30px auto;
+}
+.element
+{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: 20px;
+}
+.element img
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.element div
+{
+    align-items: left;
+}
+.navbar div
+{
+
+    border-radius: 50px;
+  background-color: #79c2d0; 
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  
+}
+
+a {
+  color: inherit; 
+  text-decoration: none; 
+}
+
+

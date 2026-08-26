@@ -8,35 +8,45 @@
 </head>
 <body>
 
-    <header>
+    <header id="header">
         <h1>My projects!</h1>
     </header>
 
-    <nav>
-        <a href="index.html">About me</a>
-        <a href="projects.html">Projects</a>
-        <a href="books.html">Favorite books</a>
-    </nav>
+   <nav class="navbar">
+            <div>
+                <a href="index.html">About me </a></div>
+            <div><a href="projects.html">Projects </a></div>
+            <div><a href="books.html">Favorite books </a></div>
+        </nav>
 
-    <section id="projects">
+    <section class="projects">
         <div class="element">
-            <h2>Esp32 Clock</h2>
-            <p>The original idea of this project was to make a pipboy from fallout but ended up</p>
-            <p>being a clock. Its only in a breadboard due to lack of money to make a PCB</p>
             <a href="https://github.com/GiantDestructor/pitboy"><img src="img/esp32clock.jpeg" alt="" class="pImages"></a>
+            <div>
+                <h2>Esp32 Clock</h2>
+                <p>The original idea of this project was to make a pipboy from fallout</p>
+                <p> but ended up being a clock. Its only in a breadboard due to</p>
+                <p> lack of money to make a PCB</p>
+            </div>
         </div>
 
         <div class="element">
-            <h2>Worlds Easiest Game</h2>
-            <p>This is a game I made for my class, it was a great experience</p>
+            
             <a href="https://juegomasdificildelmundo.netlify.app"><img src="img/easiest.png" alt="" class="pImages"></a> 
+            <div>
+                <h2>Worlds Easiest Game</h2>
+                <p>This is a game I made for my class, it was a great experience</p>
+            </div>
         </div>
 
         <div class="element">
-            <h2>ESP32 Web Server</h2>
-            <p>A project I made for class last year, it uses buttons on the page</p>
-            <p>to turn on lights and takes input to display it on an OLED</p>
+            
             <a href="https://github.com/GiantDestructor/ESP32-WebServer/tree/main"><img src="img/esp32server.png" alt="" class="pImages"></a> 
+            <div>
+                <h2>ESP32 Web Server</h2>
+                <p>A project I made for class last year, it uses buttons on the page</p>
+                <p>to turn on lights and takes input to display it on an OLED</p>
+            </div>
         </div>
     </section>
 </body>
