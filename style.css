@@ -1,15 +1,13 @@
 body
 {
     background: #bbe4e9 ;
-    
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
-   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /*Establish the font on the page*/
 }
 
 #aboutme
 {   
-    display:flex;
+    /*Makes a square behind the text like a container*/
+    display:flex; 
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -22,6 +20,7 @@ body
 
 #ytvideos
 {   
+    /*Makes a square behind the elements like a container*/
     display:flex;
     align-items: center;
     justify-content: center;
@@ -48,8 +47,7 @@ body
 
 .navbar
 {
-    
-   
+
     display:grid;
     grid-template-columns: auto auto auto;
     
@@ -118,4 +116,6 @@ a {
   text-decoration: none; 
 }
 
+iframe
+{border-radius: 50px;}
 
