@@ -1,7 +1,8 @@
 # My Web Page!
 This is my webpage where you can get to know me
 
-<img width="1800" height="877" alt="image" src="https://github.com/user-attachments/assets/b638849a-70a9-4282-889d-397f44f1f653" />
+<img width="1847" height="885" alt="image" src="https://github.com/user-attachments/assets/1fabd8c8-c78e-4365-be3d-8306c64d4eb1" />
+
 
 Here you can try it!  (https://giantdestructor.github.io/Viajero-Website/)
 
