@@ -20,6 +20,7 @@ You can see my favorite books
 
 ## Credits
  [Helped me on how to space things with padding](https://stackoverflow.com/questions/8184958/add-space-between-html-elements-only-using-css)
+ [The page background is from here, I dont know the real creator](https://mx.pinterest.com/pin/527202700140762487/)
 
 ## AI Usage
 These CSS lines that helped me keeping images on left and text on right, ChatGPT made me realize that using display:flex whas way more practical than trying to use grid (which I was struggling with)
@@ -31,3 +32,4 @@ These CSS lines that helped me keeping images on left and text on right, ChatGPT
     gap: 30px;
 }
 ```
+
