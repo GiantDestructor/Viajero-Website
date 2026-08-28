@@ -16,3 +16,18 @@ There are some of my favorite projects I´ve done
 
 ## Favorite Books
 You can see my favorite books
+
+
+## Credits
+ [Helped me on how to space things with padding](https://stackoverflow.com/questions/8184958/add-space-between-html-elements-only-using-css)
+
+## AI Usage
+These CSS lines that helped me keeping images on left and text on right, ChatGPT made me realize that using display:flex whas way more practical than trying to use grid (which I was struggling with)
+
+```
+.element {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+```
