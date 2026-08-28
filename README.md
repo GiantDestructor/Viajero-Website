@@ -19,7 +19,7 @@ You can see my favorite books
 
 
 ## Credits
- [Helped me on how to space things with padding](https://stackoverflow.com/questions/8184958/add-space-between-html-elements-only-using-css)
+ [Helped me on how to space things with margin](https://stackoverflow.com/questions/8184958/add-space-between-html-elements-only-using-css)
  [The page background is from here, I dont know the real creator](https://mx.pinterest.com/pin/527202700140762487/)
 
 ## AI Usage
